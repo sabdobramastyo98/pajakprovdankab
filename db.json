@@ -1,0 +1,94 @@
+{
+  "pajakprovdankab" : [
+    {
+      "id" : 1,
+      "soal" : "Pajak di Indonesia terdiri dari pajak pusat dan daerah. Pajak pusat dikelola oleh pemerintah pusat. Sedangkan pajak daerah dikelola oleh pemerintah daerah yang terdiri dari ",
+      "jawabana" :  "Pajak Kabupaten dan Kota",
+      "jawabanb" : "Pajak Provinsi dan Pusat",
+      "jawabanc" :  "Pajak Kecamatan dan Kabupaten",
+      "jawaband" :  "Pajak Provinsi dan Kabupaten/Kota",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 2,
+      "soal" : "Berikut ini termasuk pajak daerah, kecuali",
+      "jawabana" :  "Pajak Restoran",
+      "jawabanb" : "Pajak Hiburan",
+      "jawabanc" :  "Pajak Perhotelan",
+      "jawaband" :  "Pajak Penghasilan ",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 3,
+      "soal" : "Pak Iwan memiliki 5 motor yang tipe dan tahunnya sama. Diketahui pajak masing-masing motornya pun sama (hal ini supaya memudahkan untuk melihat kenaikan pajaknya) yaitu: <br> Pajak Kendaraan Bermotor (PKB)                : Rp     450.000,- <br> NJKB (Rp450.000,- x 2/3 x 100                 : Rp30.000.000,- <br> Sumbangan Wajib Dana Kecelakaan Lalu-Lintas Jalan (SWDKLLJ): Rp      50.000,- <br> Berapakah tarif motor pak Iwan yang pertama (provinsi Sumatera Barat 1,5%)?",
+      "jawabana" :  "Rp450.000,-",
+      "jawabanb" : "Rp300.000,-",
+      "jawabanc" :  "Rp350.000,-",
+      "jawaband" :  "Rp500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 4,
+      "soal" : "Berapakah tarif pajak untuk PBB Pedesaan Perkotaan ?",
+      "jawabana" :  "0,1 %",
+      "jawabanb" : "0,3 %",
+      "jawabanc" :  "0,5 %",
+      "jawaband" :  "5 %",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 5,
+      "soal" : "Berdasarkan data harga yang diambil dari web penyedia pemesanan hotel untuk harga kamar JW Marriot Jakarta untuk tanggal 13/02/2016, diperoleh harga harga kamar Rp2.011.807, yang merupakan harga diskon dari Rp3.674.858. Lalu berapakah pajak terutang apabila konsumen menginap 2 malam bila Pemerintah Provinsi DKI Jakarta memberlakukan tarif Pajak Hotel 10%? ",
+      "jawabana" :  "Rp402.361,40,-",
+      "jawabanb" : "Rp402.000,-",
+      "jawabanc" :  "Rp201.180,70,-",
+      "jawaband" :  "Rp367.485,80,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 6,
+      "soal" : "Besarnya tarif Pajak Rokok dan Bahan Bakar Kendaraan Bermotor  adalah sebesar …",
+      "jawabana" :  "10%",
+      "jawabanb" : "20%",
+      "jawabanc" :  "0.5%",
+      "jawaband" :  "30%",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 7,
+      "soal" : "Harga satu bungkus rokok rokok merek “S” sebesar Rp14.000,- dengan cukai 40% kemudian Pemerintah Daerah (Pemda) memungut Pajak Rokok dengan besaran 10% atas Cukai Rokok. Besarnya pajak rokok yang harus dibayarkan adalah …",
+      "jawabana" :  "Rp650,-",
+      "jawabanb" : "Rp540,-",
+      "jawabanc" :  "Rp600,-",
+      "jawaband" :  "Rp560,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 8,
+      "soal" : "Sebuah restoran menyediakan makanan dan minuman di tempat, sekaligus melayani pesanan. Berdasarkan laporan Perusahaan, selama satu (1) bulan restoran tersebut memperoleh pendapatan dari konsumen yang makan di restorannya sebesar Rp. 64.000.000,- dan dari pesanan (dus) sebesar Rp. 15.000.000,-Berapakah Pajak restoran yang harus dibayar oleh restoran tersebut?",
+      "jawabana" :  "Rp7.900.000,-",
+      "jawabanb" : "Rp6.400.000,-",
+      "jawabanc" :  "Rp1.500.000,-",
+      "jawaband" :  "Rp7.500.000,-",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 9,
+      "soal" : "Pak Agus ingin memasang baliho dengan besar 3 x 6 meter di area Kuningan (termasuk jalan protokol kelas A) sebanyak 2 buah selama 7 hari. Besarnya tarif pajak yang dikenakan adalah …",
+      "jawabana" :  "30%",
+      "jawabanb" : "25%",
+      "jawabanc" :  "40%",
+      "jawaband" :  "15%",
+      "kuncijawaban" : ""
+    },
+    {
+      "id" : 10,
+      "soal" : "  Pak Ahmad punya aset di daerah Semarang sebagai berikut: <br> • Luas Tanah 500 m2 (NJOP Rp1.000.000,-) <br> • Luas Rumah 600 m2 (rumah tingkat 3, per lantai luasnya 200 m2, NJOP Rp2.500.000,-) <br> • Pagar Rumah 50 m2   (NJOP Rp5.000.000,-) <br> • Kolam Renang 100 m2 (NJOP Rp4.000.000,-) <br> Tarif Pajak Bumi dan Bangunan ditetapkan melalui Peraturan Daerah Kota Semarang sebesar 0,3% dan NJOPTKP ditetapkan sebesar Rp20.000.000,-. Hitunglah PBB terutang Pak Ahmad!",
+      "jawabana" :  "Rp3.156.000,-",
+      "jawabanb" : "Rp3.150.000,-",
+      "jawabanc" :  "Rp2.500.000,-",
+      "jawaband" :  "Rp2.560.000",
+      "kuncijawaban" : ""
+    }
+  ]
+}
